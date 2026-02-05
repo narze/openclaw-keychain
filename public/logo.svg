@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Main claw/talon shape -->
+  <path
+    d="M50 15
+       C35 15, 25 25, 25 40
+       C25 50, 30 55, 32 60
+       C25 62, 18 68, 18 75
+       C18 85, 25 90, 35 90
+       C40 90, 45 87, 48 84
+       C50 87, 55 90, 60 90
+       C70 90, 77 85, 77 75
+       C77 68, 70 62, 63 60
+       C65 55, 70 50, 70 40
+       C70 25, 60 15, 50 15Z"
+    fill="#6366f1"
+    stroke="#4f46e5"
+    stroke-width="2"
+  />
+
+  <!-- Inner details - simplified claws -->
+  <ellipse cx="35" cy="50" rx="8" ry="12" fill="#818cf8" opacity="0.6"/>
+  <ellipse cx="50" cy="48" rx="7" ry="13" fill="#818cf8" opacity="0.6"/>
+  <ellipse cx="65" cy="50" rx="8" ry="12" fill="#818cf8" opacity="0.6"/>
+
+  <!-- Center highlight -->
+  <circle cx="50" cy="45" r="4" fill="#c7d2fe" opacity="0.7"/>
+</svg>

@@ -4,7 +4,7 @@ import { useState } from 'react'
 import Image from 'next/image'
 
 export default function Home() {
-  const SHOPEE_LINK = 'https://s.shopee.co.th/9fFCHE59Jv'
+  const SHOPEE_LINK = 'https://s.shopee.co.th/AUoJKbhKQv'
 
   const handleRedirect = () => {
     window.open(SHOPEE_LINK, '_blank')
